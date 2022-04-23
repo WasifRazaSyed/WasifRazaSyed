@@ -4,7 +4,7 @@ string future_interest="CYBER";<br />
 // love to collaborate with Electronics enthusiast<br />
 <br />
 #define REACHME <a href="syedraza312@hotmail.com">Email</a> 📫&nbsp; <br />
-#define REACHME <a href="https://www.linkedin.com/in/syed-raza-2b62051a1/">LinkedIn</a> 📫&nbsp; <br />
+#define REACHME <a href="https://www.linkedin.com/in/syed-raza-2b62051a1/">LinkedIn</a> 🆔&nbsp; <br />
 
 <br />
 class KnowMe{<br />
