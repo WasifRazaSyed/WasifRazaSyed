@@ -8,7 +8,7 @@ string @WasifRazaSyed{} = { "C++", "Qt", "IoT" };<br />
 <br />
 class KnowMe{<br />
   public:<br />
-&nbsp;&nbsp;&nbsp; string Name="Syed Wasif Ali";<br />
+&nbsp;&nbsp;&nbsp; string Name="Wasif Raza";<br />
 &nbsp;&nbsp;&nbsp; string contact=+923114514559;<br />}<br />
 <br />
 
