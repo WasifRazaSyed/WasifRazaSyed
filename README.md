@@ -9,6 +9,6 @@ string @WasifRazaSyed{} = { "Computer_Scientist", "C++", "IoT_Engineer" };<br />
 class KnowMe{<br />
   public:<br />
 &nbsp;&nbsp;&nbsp; string Name="Syed Wasif Ali";<br />
-&nbsp;&nbsp;&nbsp; string Whatsapp=+923114514559;<br />}<br />
+&nbsp;&nbsp;&nbsp; string contact=+923114514559;<br />}<br />
 <br />
 
