@@ -1,4 +1,4 @@
-string @WasifRazaSyed{} = { "Computer_Scientist", "C++", "IoT_Engineer" };<br />
+string @WasifRazaSyed{} = { "C++", "Qt", "IoT" };<br />
 <br />
 // love to collaborate with Electronics enthusiast<br />
 <br />
